@@ -111,9 +111,6 @@ m
 folium.Marker(location=[34.3584712,132.4565332],popup='ヤマダデンキ テックランドゆめタウンみゆき店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.6711413,132.715664],popup='ヤマダデンキ ヤマダアウトレット安芸高田店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.3450395,132.5897952],popup='ヤマダデンキ ヤマダアウトレット熊野店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
